@@ -1,9 +1,19 @@
-### Hi there 👋
 
-<!--
-**MaxiCattaneoCvetic/MaxiCattaneoCvetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maxi! 👋 
+<h2 align="center">**Full-Stack developer**</h2>
 
-Here are some ideas to get you started:
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://webporfolio-gray.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcvetic/)
+
+
+## 🚀 About Me
+As a Bachelor in Administration and a technology enthusiast, I embarked on a career in software development. Since then, I have dedicated time to studying programming and improving my English proficiency to enhance my profile. I am excited about the idea of combining my experience in administration with my programming knowledge to provide innovative solutions in the software development field. I consider myself passionate about problem-solving and enjoy facing challenges. I long for the opportunity to apply my skills in a challenging and collaborative environment, growing as a developer and contributing my talent to project creation.
+
+
+## 🛠 Skills
+Java, Spring Boot, AWS, React, Nodejs, Javascript, SQL, HTML, CSS, GIT,GITHUB
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
