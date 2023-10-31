@@ -1,6 +1,6 @@
 
-# Hi, I'm Maxi! 👋 
-<h2 align="center">**Full-Stack developer**</h2>
+# Hi, I'm Maxi! 👋
+# Full-Stack developer 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://webporfolio-gray.vercel.app/)
