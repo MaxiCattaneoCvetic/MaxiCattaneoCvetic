@@ -14,5 +14,5 @@ As a Bachelor in Administration and a technology enthusiast, I embarked on a car
 ## 🛠 Skills
 Java, Spring Boot, AWS, React, Nodejs, Javascript, SQL, HTML, CSS, GIT,GITHUB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiCattaneoCvetic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
