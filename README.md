@@ -1,5 +1,5 @@
 
-# Hi, I'm Maxi! 👋 |  Full-Stack developer 
+# Hi, I'm Maxi! 👋 |  Backend developer 
 
 
 ## 🔗 Links
