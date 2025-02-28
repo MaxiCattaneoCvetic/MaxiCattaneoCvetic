@@ -8,7 +8,10 @@
 
 
 ## 🚀 About Me
-As a Bachelor in Administration and a technology enthusiast, I embarked on a career in software development. Since then, I have dedicated time to studying programming and improving my English proficiency to enhance my profile. I am excited about the idea of combining my experience in administration with my programming knowledge to provide innovative solutions in the software development field. I consider myself passionate about problem-solving and enjoy facing challenges. I long for the opportunity to apply my skills in a challenging and collaborative environment, growing as a developer and contributing my talent to project creation.
+ Desarrollador Backend con formación en Administración. Apasionado por la tecnología y la
+ optimización de procesos, disfruto resolviendo problemas y proponiendo mejoras. Me motiva el
+ aprendizaje continuo y el impacto de la tecnología en la gestión y los negocios. Valoro el trabajo en
+ equipo y la colaboración para lograr grandes resultados con grandes personas.
 
 
 ## 🛠 Skills
