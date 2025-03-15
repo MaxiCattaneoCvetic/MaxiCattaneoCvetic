@@ -15,7 +15,7 @@
 
 
 ## 🛠 Skills
-Java, Spring Boot, AWS, React, Nodejs, Javascript, SQL, HTML, CSS, GIT,GITHUB
+Java, Spring Boot, AWS, React, Nodejs, Javascript, GRAPHQL, MONGODB,SQL, HTML, CSS, GIT,GITHUB, 
 
 
 
